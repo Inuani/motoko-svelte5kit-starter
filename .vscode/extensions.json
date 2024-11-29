@@ -1,0 +1,8 @@
+{
+	"recommendations": [
+		"dfinity-foundation.vscode-motoko",
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"svelte.svelte-vscode"
+	]
+}
