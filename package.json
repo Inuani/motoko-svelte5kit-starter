@@ -22,11 +22,10 @@
 		"lint": "prettier --check . && eslint ."
 	},
 	"devDependencies": {
-		"@dfinity/agent": "^1.2.0",
-		"@dfinity/auth-client": "^1.2.0",
-		"@dfinity/candid": "^1.2.0",
-		"@dfinity/principal": "^1.2.0",
-		"@hadronous/pic": "0.8.1",
+		"@dfinity/agent": "^2.1.3",
+		"@dfinity/auth-client": "^2.1.3",
+		"@dfinity/candid": "^2.1.3",
+		"@dfinity/principal": "^2.1.3",
 		"@sveltejs/adapter-static": "^3.0.5",
 		"@sveltejs/kit": "^2.7.2",
 		"@sveltejs/vite-plugin-svelte": "^4.0.0",
